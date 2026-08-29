@@ -81,6 +81,16 @@ Hands-on laboratory documentation from my **Cyber Threat Monitoring Level I** tr
 
 A **Java-based project** that evaluates password strength using common security criteria and provides a strength classification.
 
+### 🏪 Justflowskrafties — Online Ordering & Inventory System
+
+A Java and MySQL-based small-business system designed to manage products, customers, orders, order items, and inventory.
+
+The project is being developed as both a **practical business tool** for Justflows Krafties and a **portfolio project** to demonstrate programming, database management, and system development skills.
+
+**Planned technologies:** Java • JDBC • MySQL • OOP • CRUD
+
+> 🚧 Currently under development.
+
 ---
 
 ## 🧠 Core Strengths
